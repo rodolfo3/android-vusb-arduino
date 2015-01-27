@@ -1,0 +1,11 @@
+<resources>
+    <usb-device vendor-id="1027" product-id="24577"/>
+
+    <usb-device vendor-id="0x0403" product-id="0x6001"/>
+    <usb-device vendor-id="0403" product-id="6001"/>
+
+    <usb-device vendor-id="0x16c0" product-id="0x05df"/>
+    <usb-device vendor-id="16c0" product-id="05df"/>
+    <usb-device vendor-id="5824" product-id="1503"/>
+
+</resources>
